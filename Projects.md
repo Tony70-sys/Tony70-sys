@@ -6,7 +6,7 @@
 <ul>
 <li>File Restoration in Linux</li>
 <li>Image Decoding</li>
-<li>GIMP Software</li>
+<li>GIMP Software Manipulation</li>
   <li>Excel Formulas</li>
   <li>Git & GitHub</li>
   <li>Boolean SAT</li>
