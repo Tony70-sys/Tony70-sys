@@ -11,6 +11,9 @@
   <li>Git & GitHub</li>
   <li>Boolean SAT</li>
   <li>Linux Command Line</li>
+  <li>L-Systems</li>
+  <li>Networking Basics</li>
+  <li>Docker</li>
 </ul>
 </details>
 
