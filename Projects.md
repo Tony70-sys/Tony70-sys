@@ -17,4 +17,13 @@
 </ul>
 </details>
 
-## Thank you!!
+<details>
+  
+<summary>CSC 120</summary>
+<ul>
+<li>Creation of programs and functions in Dr.Racket</li>
+  <li>Introduction to algortihm thinking</li>
+</ul>
+</details>
+
+# Thank you!!
