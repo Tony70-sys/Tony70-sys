@@ -9,11 +9,11 @@
 
 ###
 
-<h3 data-importer="text" align="left">About me</h3>
+<h3 data-importer="text" align="left">About me🚀</h3>
 
 ###
 
-- 💻 **Programming Experience** coding since 2024, primarily in Java, Python, C#, and Arduino/C++, with experience building academic and personal projects.
+- 💻 **Programming Experience** coding since 2024, primarily in Java, Arduino/C++, and Python, with experience building academic and personal projects.
 
 - 🌐 **Networking Focus** working toward a career in networking while continuously expanding my knowledge of networking concepts, cloud technologies, and automation.
 
@@ -45,6 +45,8 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Arduino_IDE_logo.svg" height="40" alt="nestjs logo"  />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" height="40" alt="jest logo"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/Powershell_128.svg" height="40" alt="storybook logo"  />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
