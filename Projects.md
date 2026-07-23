@@ -43,6 +43,34 @@
 </ul>
 </details>
 
+<details>
+
+<summary>CSC 225</summary>
+<ul>
+<li>A survey of classical data structures (including lists, trees, stacks, queues, heaps, search trees, hash tables, graphs) and associated algorithms with emphasis on implementation and use in programming.  An introduction to algorithmic analysis and asymptotic complexity.</li>
+</ul>
+</details>
+
+<details>
+
+<summary>CSC 235</summary>
+<ul>
+<li>An introduction to electronics and microcontroller programming for prototyping physical systems that incorporate sensors, displays and actuators. Explores techniques for creating richly interactive experiences using computationally enabled devices.</li>
+</ul>
+</details>
+
+<details>
+
+<summary>CSC 250</summary>
+<ul>
+<li>This course introduces concepts and development practices for eXtended Reality (XR), including
+Virtual Reality (VR), Augmented Reality (AR), Mixed Reality (MR), and related immersive technologies.
+Students will explore interaction design, locomotion techniques, physics systems, and
+event-driven programming using triggers and colliders. Emphasis is on hands-on demonstrations
+rather than traditional assessments.</li>
+</ul>
+</details>
+
 
 
 # Thank you!!
