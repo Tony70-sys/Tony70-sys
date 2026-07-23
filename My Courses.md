@@ -1,4 +1,4 @@
-# My Projects In Computer Science
+# The Courses I've taken In Computer Science
 
 <details>
   
