@@ -4,7 +4,7 @@
 
 <p data-importer="text" align="left">I'm a Computer Science student at Berry College, originally from Costa Rica. I'm currently building projects in Python and Java while expanding my knowledge of networking and cloud computing.
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjB6aHBsdHIxNHp3OHY0Y3Z0MDhteDVuNzZva2hudTJ6OWxxdTBqayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sZJE1DzZOadRLoXzxX/giphy.gif" width="1000" height="220" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjB6aHBsdHIxNHp3OHY0Y3Z0MDhteDVuNzZva2hudTJ6OWxxdTBqayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sZJE1DzZOadRLoXzxX/giphy.gif" width="1000" height="180" />
 </p></p>
 
 ###
