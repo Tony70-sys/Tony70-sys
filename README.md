@@ -4,13 +4,13 @@
 
 <p data-importer="text" align="left">I'm a Computer Science student at Berry College, originally from Costa Rica. I'm currently building projects in Python and Java while developing my skills in networking and systems engineering, with a focus on infrastructure, network administration, and troubleshooting.
 
-  <img src="https://i.giphy.com/QU6oWo25dOR7h7yrgu.webp" width="247" height="250" />
+  <img src="https://i.giphy.com/QU6oWo25dOR7h7yrgu.webp" width="200" height="200" />
   
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWlhOXdjOTJ6Y3Jhd2pxejJoZDJ3aGFtNjN3dWI3NHMwOWowend4NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/amNIApZx60JZoqiJSj/giphy.gif" width="247" height="250" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWlhOXdjOTJ6Y3Jhd2pxejJoZDJ3aGFtNjN3dWI3NHMwOWowend4NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/amNIApZx60JZoqiJSj/giphy.gif" width="200" height="200" />
 
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWtoaHc3ODdpYTJ1dTNzZjY5ZDJkdDZkaXlwajlnM2lkb2d3a2c0cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/B44eAvIw00zxOqDjtL/giphy.gif" width="247" height="250" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWtoaHc3ODdpYTJ1dTNzZjY5ZDJkdDZkaXlwajlnM2lkb2d3a2c0cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/B44eAvIw00zxOqDjtL/giphy.gif" width="200" height="200" />
 
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3ZpbDJ2amttdHFnN3BnMnpwc284cmp3a3B5enpmYmtxaTNtbTRwZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3fqObw3skuPTuqtRHf/giphy.gif" width="247" height="250" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3ZpbDJ2amttdHFnN3BnMnpwc284cmp3a3B5enpmYmtxaTNtbTRwZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3fqObw3skuPTuqtRHf/giphy.gif" width="200" height="200" />
   
 </p>
 
