@@ -59,6 +59,8 @@
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" height="40" alt="jest logo"  />
   <img width="12" />
+  <img src="https://icon.icepanel.io/Technology/svg/Azure-SQL-Database.svg" height="40" alt="jest logo"  />
+  <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/Powershell_128.svg" height="40" alt="storybook logo"  />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" height="40" alt="nodejs logo"  />
