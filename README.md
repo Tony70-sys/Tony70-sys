@@ -4,13 +4,7 @@
 
 <p data-importer="text" align="left">I'm a Computer Science student at Berry College, originally from Costa Rica. I'm currently building projects in Python and Java while developing my skills in networking and systems engineering, with a focus on infrastructure, network administration, and troubleshooting.
 
-  <img src="https://i.giphy.com/QU6oWo25dOR7h7yrgu.webp" width="200" height="200" />
-  
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWlhOXdjOTJ6Y3Jhd2pxejJoZDJ3aGFtNjN3dWI3NHMwOWowend4NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/amNIApZx60JZoqiJSj/giphy.gif" width="200" height="200" />
-
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWtoaHc3ODdpYTJ1dTNzZjY5ZDJkdDZkaXlwajlnM2lkb2d3a2c0cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/B44eAvIw00zxOqDjtL/giphy.gif" width="200" height="200" />
-
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExano3dDY1YTRxZzltOGN0eTlkeTNlb2R3d3dxbDJmYTVqNW90aGtoYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uflks2ewWeESwEgd2f/giphy.gif" width="200" height="200" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXZoZWFkZjBjcWg5NmoxcjViYnF1ZjAwNWJnOXA1dGc5eG85azVwYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sZJE1DzZOadRLoXzxX/giphy.gif" width="1000" height="180" />
   
 </p>
 
