@@ -43,10 +43,6 @@
   <img width="12" />
   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" height="40" alt="nextjs logo"  />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Arduino_IDE_logo.svg" height="40" alt="nestjs logo"  />
-  <img width="12" />
   <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" height="40" alt="nestjs logo"  />
   <img width="12" />
   <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon~old.svg" height="40" alt="nestjs logo"  />
