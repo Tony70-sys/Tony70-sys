@@ -39,9 +39,9 @@
 <div data-importer="techs" align="left">
   <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" height="40" alt="java logo"  />
   <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/isocpp/isocpp-icon.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/isocpp/isocpp-icon.svg" height="40" alt="typescript logo"  />
   <img width="12" />
   <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" height="40" alt="nestjs logo"  />
   <img width="12" />
