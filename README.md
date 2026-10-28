@@ -1,40 +1,26 @@
-<h3 data-importer="text" align="left">Hello! I'm Anthony!!</h3>
+<h3 align="left">Hey, I'm Anthony!</h3>
 
-###
-
-<p data-importer="text" align="left">I'm a Computer Science student at Berry College, originally from Costa Rica. I'm currently building projects in Python and Java while developing my skills in networking and systems engineering, with a focus on infrastructure, network administration, and troubleshooting.
-
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjl2Z3pyZXE3b2xkbDJhMDFwcjF4aTZwOHhxYnA4Z3hvMnRoN3BwaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTiTnxpQ3ghPiB2Hp6/giphy.gif" width="1000" height="200" />
-  
+<p align="left">
+  I'm a Computer Science student at Berry College, originally from Costa Rica.
+  I've been coding since 2024 and have worked with Java, Python, and C++,
+  including projects with Arduino. I'm especially interested in systems
+  engineering, networking, and infrastructure, and I'd like to keep building
+  my skills in areas like Linux, network administration, and troubleshooting.
+  <br><br>
+  I enjoy learning by working on projects, breaking things (sometimes
+  accidentally), and figuring out how to fix them. I'm always looking for
+  opportunities to learn something new and get more hands-on experience.
+  Outside of tech, I enjoy spending time outdoors and staying active.
 </p>
 
-
-
-###
-
-<h3 data-importer="text" align="left">About me 🚀</h3>
-
-###
-
-- 💻 **Programming Experience** coding since 2024, primarily in Java, Arduino/C++, and Python, with experience building academic and personal projects.
-
-- 🌐 **Systems Engineering Focus** pursuing systems engineering while expanding my understanding of networking, infrastructure, cloud technologies, and coding.
-
-- 🧠 **Computer Science Fundamentals** built a strong foundation in object-oriented programming, data structures, algorithms, and discrete mathematics.
-
-- 🛠️ **Hands-On Development** experienced with GitHub, Linux, backend development, Arduino/C++, and collaborative projects.
-
-- 📚 **Continuous Learner** always looking for opportunities to strengthen my technical skills through personal projects, certifications, and exploring new technologies.
-
-- 🤝 **Problem Solver & Team Player** enjoy tackling technical challenges, collaborating with others, and building practical solutions.
-
-- 🌲 **Outside of Tech** I enjoy spending time outdoors, staying active, and challenging myself both physically and mentally.
-
-###
-
-<h3 data-importer="text" align="left">I code with</h3>
-
-###
+<p align="center">
+  <img
+    src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjl2Z3pyZXE3b2xkbDJhMDFwcjF4aTZwOHhxYnA4Z3hvMnRoN3BwaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTiTnxpQ3ghPiB2Hp6/giphy.gif"
+    width="100%"
+    height="200"
+    alt="Animated GIF"
+  />
+</p>
 
 <div data-importer="techs" align="left">
   <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" height="40" alt="java logo"  />
