@@ -1,3 +1,12 @@
+<p align="center">
+  <img
+    src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjl2Z3pyZXE3b2xkbDJhMDFwcjF4aTZwOHhxYnA4Z3hvMnRoN3BwaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTiTnxpQ3ghPiB2Hp6/giphy.gif"
+    width="100%"
+    height="200"
+    alt="Animated GIF"
+  />
+</p>
+
 <h3 align="left">Hey, I'm Anthony!</h3>
 
 <p align="left">
@@ -13,14 +22,7 @@
   Outside of tech, I enjoy spending time outdoors and staying active.
 </p>
 
-<p align="center">
-  <img
-    src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjl2Z3pyZXE3b2xkbDJhMDFwcjF4aTZwOHhxYnA4Z3hvMnRoN3BwaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTiTnxpQ3ghPiB2Hp6/giphy.gif"
-    width="100%"
-    height="200"
-    alt="Animated GIF"
-  />
-</p>
+
 
 <div data-importer="techs" align="left">
   <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" height="40" alt="java logo"  />
