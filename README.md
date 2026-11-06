@@ -29,7 +29,7 @@
   <img width="12" />
   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" height="40" alt="nextjs logo"  />
   <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/isocpp/isocpp-icon.svg" height="40" alt="typescript logo"  />
+  <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Arduino_IDE_logo.svg/960px-Arduino_IDE_logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20230510165732" height="40" alt="typescript logo"  />
   <img width="12" />
   <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" height="40" alt="nestjs logo"  />
   <img width="12" />
